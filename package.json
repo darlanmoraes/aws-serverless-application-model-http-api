@@ -1,5 +1,5 @@
 {
-  "name": "sam-lambda-authorization",
+  "name": "aws-serverless-application-model-http-api",
   "version": "1.0.0",
   "description": "This is a sample that use multiple Cloudformation Stacks to build one Application",
   "scripts": {

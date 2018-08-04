@@ -1,7 +1,7 @@
 swagger: 2.0
 basePath: /development
 info:
-  title: sam-lambda-authorization
+  title: aws-serverless-application-model-http-api
 schemes:
 - https
 paths:
