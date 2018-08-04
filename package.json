@@ -1,0 +1,16 @@
+{
+  "name": "sam-lambda-authorization",
+  "version": "1.0.0",
+  "description": "This is a sample that use multiple Cloudformation Stacks to build one Application",
+  "scripts": {
+    "deploy:api-gateway": "./src/scripts/./deploy-api-gateway.sh",
+    "deploy:dynamodb": "./src/scripts/./deploy-dynamodb.sh",
+    "deploy:lambdas": "./src/scripts/./deploy-lambdas.sh"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bluebird": "^3.5.1"
+  },
+  "author": "Darlan de Moraes Silveira",
+  "license": "ISC"
+}
